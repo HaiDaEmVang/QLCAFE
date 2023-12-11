@@ -1,0 +1,3 @@
+125,Hải ni đẹp trai hơn ,Bạc Liêu,01/01/0001,M,8.0,9.0,10.0
+124,hải cũng đẹp trai nốt,Bà Rịa-Vũng Tàu,10/10/0010,F,9.0,9.0,9.0
+123,hai dep trai,An Giang,12/12/0012,F,10.0,10.0,10.0
